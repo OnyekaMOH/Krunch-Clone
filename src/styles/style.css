@@ -1,0 +1,94 @@
+.home__img{
+    width: 100%;
+    height: 100%;
+}
+header{
+    background-image: url(../asset/KRUNCH_HOME\ alexandru-zdrobau-4bmtMXGuVqo-unsplash.jpeg);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    display: flex ;
+    flex-direction: row;
+    background-position: center;
+
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.head__link{
+    padding: 30px;
+}
+.nav_links{
+    padding: 50px;
+    display:flex ;
+    flex-direction: row;
+}
+.welcm_2_krunch{
+    color: #ffffff ;
+}
+
+body{
+    background-color: #303030 ;
+}
+.krunch_info{
+    background-color: #ffffff;
+    color: #4e4e4e;
+    text-align: center;
+    padding: 10px;
+    margin: 3vh 
+    /* height: 30vh ;
+    width: 80vh; */
+
+}
+
+.krunch_sw{
+    background-color: #ffffff;
+    color: #4e4e4e;
+    text-align: center;
+    padding: 10px;
+    margin: 3vh 
+}
+.what_are_we{
+    height: 100vh;
+    background-color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    text-align: center;
+    margin: 3vh 
+}
+.button1{
+    height: 4.5vh;
+    width: 50vw;
+    background-color: transparent;
+    border-radius: 6px;
+    border: 2px solid #5f5499;
+    color: #5f5499;
+}
+.button2{
+    height: 4.5vh;
+    width: 50vw;
+    background-color: transparent;
+    border-radius: 6px;
+    border: 2px solid #6db477;
+    color: #6db477;
+}
+.testimonial{
+    color: rgba(0, 0, 0, 0.113);
+    text-align: start;
+    font-size: 45px;
+}
+video{
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+}
+.footer_design{
+    background-color: #0000;
+    display: flex;
+    flex-direction: row;
+}
+.end_sct{
+    text-align: center;
+    color: #ffffff;
+}
